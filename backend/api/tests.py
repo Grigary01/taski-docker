@@ -1,3 +1,4 @@
+# type: ignore
 from http import HTTPStatus
 
 from api import models
